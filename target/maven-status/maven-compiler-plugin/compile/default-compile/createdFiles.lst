@@ -1,0 +1,4 @@
+bank/repository/BankRepository.class
+bank/service/BankService.class
+bank/controller/BankController.class
+bank/service/BankApplication.class
